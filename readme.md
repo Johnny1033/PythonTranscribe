@@ -1,5 +1,7 @@
 Video Transcription Service
-This Python script automates the process of downloading a YouTube video, uploading it to Amazon S3, transcribing the video using Amazon Transcribe, and saving the transcriptions back to the S3 bucket.
+This Python script automates the process of downloading a YouTube video, uploading it to Amazon S3, 
+transcribing the video using Amazon Transcribe, and saving the transcriptions back to the S3 bucket. 
+The goal is for the service to transcribe any video, but downloading of a YouTube video is the beginning so that we have something to test with. 
 
 Dependencies
 To run this script, you need to install the following Python packages:
